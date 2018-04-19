@@ -1,3 +1,5 @@
+package ru.habrahabr;
+
 import java.util.concurrent.CountDownLatch;
 
 /**
