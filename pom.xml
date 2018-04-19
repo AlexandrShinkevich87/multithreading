@@ -12,6 +12,7 @@
         <module>semaphore</module>
         <module>race-condition</module>
         <module>count-down-latch</module>
+        <module>cyclic-barrier</module>
     </modules>
 
     <build>
